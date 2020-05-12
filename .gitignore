@@ -1,0 +1,3 @@
+# Auto ignore python cache folder
+__pycache__
+notes
