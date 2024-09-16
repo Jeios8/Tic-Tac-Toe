@@ -56,7 +56,7 @@ O: 0
 Player X, enter cell number (1-9):
 ```
 
-##Future Improvements
+## Future Improvements
 - Add an option for single-player mode against an AI.
 - Improve the UI/UX by adding a graphical interface (GUI).
 - Implement additional game modes (e.g., 4x4 or larger grids).
